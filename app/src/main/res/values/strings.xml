@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GroupProject</string>
+    <string name="title_courses">Courses</string>
+    <string name="title_Assignments">Assignments</string>
+    <string name="title_exams">Exam</string>
+    <string name="to_do">To-do list</string>
+</resources>
